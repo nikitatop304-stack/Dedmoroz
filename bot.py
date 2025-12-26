@@ -12,7 +12,7 @@ from typing import Dict, List
 import json
 
 # Настройки
-BOT_TOKEN = "7831575649:AAFgFYsY7afjBL9PX1JKma9zK0GrpULcBaY"
+BOT_TOKEN = "8521703995:AAHnH8m6lVsBunrD_yWiyVVMDSeVSwMn1M0"
 ADMIN_ID = 5522585352  # ID @wakeguarantee
 CHANNEL_USERNAME = "@WakeDeff"  # Обязательный канал
 
